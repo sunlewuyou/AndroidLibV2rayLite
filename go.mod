@@ -7,5 +7,3 @@ require (
 	golang.org/x/mobile v0.0.0-20210220033013-bdb1ca9a1e08
 	golang.org/x/sys v0.0.0-20210309074719-68d13333faf2
 )
-
-replace github.com/2dust/AndroidLibV2rayLite master => github.com/sunlewuyou/AndroidLibV2rayLite v1.0
